@@ -1,0 +1,3 @@
+用Python写爬虫时候，需要获取浏览器中network中的内容时，使用selenium+proxy
+非常麻烦，并且不易部署。此处使用nodejs的Puppeteer的setRequestInterception
+实现了一个轻量级、已部署的方式。
